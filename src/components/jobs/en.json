@@ -1,0 +1,67 @@
+{
+    "jobs": [
+        {
+            "title": "Web Developer (Entry Level)",
+            "requirements": [
+                "Basic knowledge of HTML, CSS, and JavaScript",
+                "Understanding of web development best practices",
+                "Ability to work collaboratively in a team environment",
+                "Strong problem-solving skills"
+            ],
+            "responsibilities": [
+                "Develop and maintain responsive web pages and applications",
+                "Collaborate with designers and other developers to ensure the best possible user experience",
+                "Write clean, reusable code that adheres to established standards and guidelines",
+                "Participate in code reviews and provide constructive feedback to other team members"
+            ],
+            "benefits": [
+                "Competitive salary and benefits package",
+                "Opportunities for career advancement and professional growth",
+                "Collaborative and supportive team environment",
+                "Chance to work on challenging and exciting projects"
+            ]
+        },
+        {
+            "title": "Project Manager",
+            "requirements": [
+                "Bachelor's or Master's degree in business administration or a related field",
+                "Experience in project management and leading teams",
+                "Ability to create and maintain project plans, budgets, and schedules",
+                "Excellent communication and leadership skills"
+            ],
+            "responsibilities": [
+                "Develop and implement project plans, including timelines, budgets, and resources",
+                "Manage project risks and issues, and develop contingency plans as needed",
+                "Ensure projects are completed on time, within scope, and within budget",
+                "Communicate project status, risks, and issues to stakeholders and team members"
+            ],
+            "benefits": [
+                "Competitive salary and benefits package",
+                "Opportunities for career advancement and professional growth",
+                "Collaborative and supportive team environment",
+                "Chance to work on challenging and exciting projects"
+            ]
+        },
+        {
+            "title": "IT Expert",
+            "requirements": [
+                "Bachelor's or Master's degree in computer science or a related field",
+                "Experience in programming, software development, and IT infrastructure",
+                "Strong problem-solving and analytical skills",
+                "Excellent communication and teamwork skills"
+            ],
+            "responsibilities": [
+                "Develop and maintain IT infrastructure and systems",
+                "Collaborate with other teams to implement software and hardware solutions",
+                "Identify and troubleshoot issues with hardware, software, and networks",
+                "Stay up-to-date with the latest trends and developments in IT"
+            ],
+            "benefits": [
+                "Competitive salary and benefits package",
+                "Opportunities for career advancement and professional growth",
+                "Collaborative and supportive team environment",
+                "Chance to work on challenging and exciting projects"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "jobs": [
+        {
+            "title": "Webentwickler (Einsteiger)",
+            "requirements": [
+                "Grundkenntnisse in HTML, CSS und JavaScript",
+                "Verständnis für bewährte Praktiken in der Webentwicklung",
+                "Fähigkeit zur Zusammenarbeit in einem Teamumfeld",
+                "Ausgeprägte Problemlösungsfähigkeiten"
+            ],
+            "responsibilities": [
+                "Entwicklung und Pflege von responsiven Webseiten und Anwendungen",
+                "Zusammenarbeit mit Designern und anderen Entwicklern, um das bestmögliche Nutzererlebnis sicherzustellen",
+                "Schreiben von sauberem, wiederverwendbarem Code, der den etablierten Standards und Richtlinien entspricht",
+                "Teilnahme an Code-Reviews und Bereitstellung konstruktiven Feedbacks an andere Teammitglieder"
+            ],
+            "benefits": [
+                "Attraktive Vergütung und umfangreiches Benefit-Paket",
+                "Chancen für berufliche Entwicklung und Wachstum",
+                "Kollaborative und unterstützende Teamumgebung",
+                "Möglichkeit, an herausfordernden und spannenden Projekten zu arbeiten"
+            ]
+        },
+        {
+            "title": "Projektmanager",
+            "requirements": [
+                "Bachelor- oder Master-Abschluss in Betriebswirtschaftslehre oder einem verwandten Bereich",
+                "Erfahrung im Projektmanagement und im Führen von Teams",
+                "Fähigkeit zur Erstellung und Pflege von Projektplänen, Budgets und Zeitplänen",
+                "Ausgezeichnete Kommunikations- und Führungsqualitäten"
+            ],
+            "responsibilities": [
+                "Entwicklung und Umsetzung von Projektplänen, einschließlich Zeitplan, Budget und Ressourcen",
+                "Verwaltung von Projekt-Risiken und -Problemen sowie Entwicklung von Notfallplänen bei Bedarf",
+                "Sicherstellung, dass Projekte termingerecht, im Rahmen des vorgegebenen Umfangs und innerhalb des Budgets abgeschlossen werden",
+                "Kommunikation des Projektstatus, Risiken und Probleme an Interessengruppen und Teammitglieder"
+            ],
+            "benefits": [
+                "Attraktive Vergütung und umfangreiches Benefit-Paket",
+                "Chancen für berufliche Entwicklung und Wachstum",
+                "Kollaborative und unterstützende Teamumgebung",
+                "Möglichkeit, an herausfordernden und spannenden Projekten zu arbeiten"
+            ]
+        },
+        {
+            "title": "IT-Experte",
+            "requirements": [
+                "Bachelor- oder Master-Abschluss in Informatik oder einem verwandten Bereich",
+                "Erfahrung in Programmierung, Software-Entwicklung und IT-Infrastruktur",
+                "Starke Problemlösungs- und Analysefähigkeiten",
+                "Ausgezeichnete Kommunikations- und Teamfähigkeiten"
+            ],
+            "responsibilities": [
+                "Entwickeln und Pflegen von IT-Infrastruktur und Systemen",
+                "Zusammenarbeit mit anderen Teams zur Implementierung von Software- und Hardware-Lösungen",
+                "Identifizieren und Beheben von Problemen mit Hardware, Software und Netzwerken",
+                "Auf dem neuesten Stand bleiben in Bezug auf Trends und Entwicklungen in der IT"
+            ],
+            "benefits": [
+                "Wettbewerbsfähiges Gehalt und Benefits-Paket",
+                "Möglichkeiten zur beruflichen Weiterentwicklung und Wachstum",
+                "Kollaboratives und unterstützendes Team-Umfeld",
+                "Chance, an herausfordernden und aufregenden Projekten zu arbeiten"
+            ]
+        }
+    ]
+}
